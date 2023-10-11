@@ -1,4 +1,4 @@
-## R Package Management
+## R Package Management using Docker
 
 This is utilizing Docker for R package management. The idea is to create an image with packages installed and then utilize the former image to build a new that runs a code.
 This is a pretty simple example , bring developed for a more complicated use-case.
